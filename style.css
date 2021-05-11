@@ -1,0 +1,39 @@
+* {
+	margin:0;
+	padding:0;
+}
+#wrapper {
+	width:auto;
+	height:auto
+}
+#main-container {
+	width:1280px;
+	margin:0 auto;
+	height:0;
+}
+.search-box {
+	width:60%;
+	height:30px;
+	padding: 0 10px;
+}
+.search-go {
+	width:10%;
+	height:30px;
+	padding:0 10px;
+}
+.product {
+	width:auto;
+	height:30px;
+}
+.image center {
+	width:100%;
+	float:left;
+}
+.image {
+	float:right;
+	padding-right:30px;
+}
+.image {
+	float:right;
+	padding-right:10px;
+}
